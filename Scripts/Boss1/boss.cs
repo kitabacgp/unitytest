@@ -14,4 +14,4 @@ public class boss : MonoBehaviour
         Instantiate (enemybullet, origin.position, origin.rotation);
     }
 
-}
+}//追加要素
